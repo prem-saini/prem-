@@ -1,0 +1,78 @@
+<html>
+<head>
+
+    <link rel="stylesheet" href="github.css">
+
+</head>
+<body>
+	<div class="card-container">
+		
+	<div class="upper-container">
+		<div class="image-container">
+		
+            <img src="img/IMG_20190817_075406.jpg"/>
+		</div>
+		</div>	
+		
+	  <div class="lower-container">
+		
+		
+		<div>
+	<h4>Prem Saini</h4>
+	<h3>future developer</h3>	
+		</div>
+		  <div>
+		  <p>I am a Student  of Computer Science.A best designer of web designing. </p>
+			  
+		  </div>
+	<div>
+		 <h3>psaini8951@gmail.com</h3> </div>
+		  <div>
+		  
+		  7426938951 
+			  
+		  </div>
+		  <div>
+			  
+		   Losal(Sikar) Rajasthan
+			  
+		  </div>
+	</div>
+	
+	</div>
+		
+	<div>
+	<h1>CAREER TIMELINE</h1>
+	</div>
+	<div class="ram">
+	
+		<p> Bharitya Engineering College Sikar(rajasthan),Computer Science & Engineering 2017-2021</p>
+			 
+		  
+	</div>
+	<div class="ram">
+	
+		<p> DRK GOVT.SCHOOL losal(sikar)  High Secondary,PCM 2004-2017</p>
+			 
+		  
+	</div>
+	<table>
+		<tr>
+			<td>
+	<h1>Skills & Experience</h1>
+			<td><input class="btn" type="button" name="" value="HTML5"></td>
+			<td><input class="btn" type="button" name="" value="PHP,JAVA SCRIPT"></td>
+			<td><input class="btn" type="button" name="" value="CSS3"></td>
+		
+			</td>
+		
+	</tr>
+	
+	</table>
+	
+	
+</body>
+
+
+
+</html>
