@@ -1,0 +1,53 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	margin: 0px;
+	padding: 0px;
+	background: #f1f1f1;
+	
+	
+}
+.card.container{
+	width: 300px;
+	height: 430px;
+	background: orange;
+	border-radius: 6px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	box-shadow: 0px 1px 10px 1px #000;
+}
+.upper-container{
+	height: 150px;
+	background: yellow;
+	
+}
+.image-container{
+	background: white;
+	width: 80px;
+	height: 80px;
+	border-radius: 50%;
+	padding: 5px;
+	transform: translate(100px,100px);
+}
+.image-container img{
+	width: 80px;
+	height: 80px;
+	border-radius: 80%;
+	
+}
+
+
+.lower-container{
+	height: 280px;
+	background: coral;
+	padding: 20px;
+	padding-top: 40px;
+}
+.ram{
+	background: green;
+	text-align: center;
+	height: 25px;
+}
